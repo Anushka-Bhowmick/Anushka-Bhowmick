@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka-bhowmick&label=Profile%20views&color=0e75b6&style=flat" alt="anushka-bhowmick" /> </p>
 
-- I’m currently learning **Web Development and python**
+- I’m currently learning **Web Development and Python.**
 
-- How to reach me **anushkab202004@gmail.com**
+- How to reach me : **anushkab202004@gmail.com**
 
 - Fun fact : **I love paradoxes.**
 
