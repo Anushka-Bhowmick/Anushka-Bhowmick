@@ -1,5 +1,4 @@
 ### Hello , I am Anushka.
-#### A curious soul
 ![A curious soul](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ61-xFhSZvySRsLQ_vY4t4hfp6nojS4HT06A&usqp=CAU)
 
 -A Tech geek and an Open Source enthusiast
