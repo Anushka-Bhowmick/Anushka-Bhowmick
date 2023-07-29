@@ -16,9 +16,25 @@
    &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://twitter.com/@Anushkalien"><img src='https://pbs.twimg.com/media/F2KSvaPWAAExbtM?format=png&name=small' alt='twitter' height='40'/></a>
 </p>
+<hr>
 
 
-Skills: REACT / JS / HTML / CSS / JAVA / PYTHON / C / MONGODB
+<!-- Skills -->
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7FF&center=true&repeat=false&width=435&lines=--Skills--" alt="Typing SVG" /></a>
+</p>
+<p align="center">
+  <img src="https://cdn.svgporn.com/logos/react.svg" height='40'/>
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" height='40'/>
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" height='40'/><br>
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
+  <img src="https://cdn.svgporn.com/logos/java.svg" height='40'/>
+  <img src="https://cdn.svgporn.com/logos/python.svg" height='40'/>
+  <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" height='40'/>
+</p>
+
 
 - 🔭 I’m currently working on small web projects 
 - 🌱 I’m currently learning **MERN** Stack 
@@ -26,7 +42,10 @@ Skills: REACT / JS / HTML / CSS / JAVA / PYTHON / C / MONGODB
 - 📫 How to reach me: anushkab202004@gmail.com 
 - ⚡ Fun fact: Shhh! I am an Alien 
 
-### GitHub Stats:
+<hr>
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Anushka-Bhowmick&show_icons=true&rank_icon=github&theme=neon&card_width=320" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anushka-Bhowmick&layout=compact&show_icons=true&theme=neon&langs_count=8&card_width=320&locale=en" />
+### GitHub Stats:
+<p>
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Anushka-Bhowmick&show_icons=true&rank_icon=github&theme=neon&card_width=320" />
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anushka-Bhowmick&layout=compact&show_icons=true&theme=neon&langs_count=8&card_width=320&locale=en" />
+</p>
