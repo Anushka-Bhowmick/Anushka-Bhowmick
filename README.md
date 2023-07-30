@@ -1,11 +1,11 @@
 <!-- My name and brief -->
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=f75c7e&center=true&repeat=false&width=435&lines=Anushka+Bhowmick" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFFFF&center=true&repeat=false&width=450&lines=Anushka+Bhowmick" alt="Typing SVG" /></a>
   
 </p>
 <p align="center">
   <a href="https://github.com/Anushka-Bhowmick/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;Open%20Source%20Enthusiast;Always%20learning%20new%20Stuffs&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;Open%20Source%20Enthusiast;Always%20learning%20new%20Stuffs&font=Fira%20Code&center=true&width=440&height=45&color=1BFFDF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
