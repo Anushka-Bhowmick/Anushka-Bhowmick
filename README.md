@@ -47,4 +47,4 @@
 ### GitHub Stats:
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Anushka-Bhowmick&show_icons=true&rank_icon=github&theme=neon&card_width=320" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anushka-Bhowmick&layout=compact&show_icons=true&theme=neon&langs_count=8&card_width=320&locale=en" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anushka-Bhowmick&layout=compact&show_icons=true&theme=radical&langs_count=8&card_width=320&locale=en" />
