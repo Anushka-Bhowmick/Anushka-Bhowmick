@@ -35,16 +35,9 @@
   <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" height='40'/>
 </p>
 
-
-- 🔭 I’m currently working on small web projects 
 - 🌱 I’m currently learning **MERN** Stack 
 - 💬 Ask me about Universe, Paradoxes and Tech 
 - 📫 How to reach me: anushkab202004@gmail.com 
 - ⚡ Fun fact: Shhh! I am an Alien 
 
 <hr>
-
-### GitHub Stats:
-
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Anushka-Bhowmick&show_icons=true&rank_icon=github&theme=neon&card_width=320" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anushka-Bhowmick&layout=compact&show_icons=true&theme=radical&langs_count=8&card_width=320&locale=en" />
