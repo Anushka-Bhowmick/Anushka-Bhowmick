@@ -14,7 +14,7 @@
    &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/anushkabhowmick/"><img src='https://w7.pngwing.com/pngs/887/616/png-transparent-linkedin-icon-linkedin-text-rectangle-logo-thumbnail.png' alt='linkedin' height='40'/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://twitter.com/@Anushkalien"><img src='https://pbs.twimg.com/media/F2KSvaPWAAExbtM?format=png&name=small' alt='twitter' height='40'/></a>
+   <a href="https://twitter.com/@Anushkalien"><img src='https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10808.jpg?w=740' alt='twitter' height='40'/></a>
 </p>
 <hr>
 
@@ -41,4 +41,3 @@
 - ⚡ Fun fact: Shhh! I am an Alien 
 
 <hr>
-[![An image of @anushkabhowmick's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anushkabhowmick)](https://holopin.io/@anushkabhowmick)
