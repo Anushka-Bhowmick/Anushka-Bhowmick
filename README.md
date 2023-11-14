@@ -41,3 +41,5 @@
 - ⚡ Fun fact: Shhh! I am an Alien 
 
 <hr>
+<br />
+[![An image of @anushkabhowmick's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anushkabhowmick)](https://holopin.io/@anushkabhowmick)
